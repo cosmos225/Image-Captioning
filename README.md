@@ -5,4 +5,4 @@ Dataset consists of first 5000 image-caption pairs from the COCO dataset.
 ## Instructions:
 1. Open Jupyter Notebook
 2. 'preprocessing.ipynb' file is to give a general idea of what image processing operations are applied on the image samples.
-3. Open Image_captioning.ipynb file and execute each block of code sequentially.
+3. Open 'Image_captioning_model1.ipynb' file and execute each block of code sequentially.
